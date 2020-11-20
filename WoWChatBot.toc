@@ -1,4 +1,4 @@
-## Interface: 40200
+## Interface: 90002
 ## Version: @project-version@
 ## Title: WoWChatBot
 ## Author: HiddenFox (trendhanfeng@gmail.com)
@@ -9,5 +9,6 @@ embeds.xml
 
 Locales\zhCN.lua
 Locales\enUS.lua
+Locales\ruRU.lua
 
 WoWChatBot.lua
